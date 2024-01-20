@@ -7,7 +7,6 @@
         "doctrine",
         "dbal"
     ],
-    "homepage": "",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +16,7 @@
     ],
     "require": {
         "silex/silex": "~2.0",
-        "silex/web-profiler": "~2.0"
+        "symfony/web-profiler-bundle": "~4.3.11"
     },
     "autoload": {
         "psr-0": {
